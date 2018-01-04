@@ -1,8 +1,8 @@
 # CS343 Docker Setup
-This is a quick setup for compiling and running CS343 code on Windows or macOS.
+This is a quick setup for compiling and running CS343 code on Windows or macOS using Docker.
 
 ### Setup
-There are two ways you can use this image:
+First, make sure you have [docker](https://www.docker.com/) installed! There are two options to get started:
 
 #### Option 1: Use this repository
 This repository is setup to make it as easy as possible to start working on CS343 assignments without much configuration. First clone this repository and cd into it
