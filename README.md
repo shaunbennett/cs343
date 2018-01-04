@@ -4,7 +4,7 @@ This is a quick setup for compiling and running CS343 code on Windows or macOS.
 ### Setup
 There are two ways you can use this image:
 
-#### Option 1: Use this rpository
+#### Option 1: Use this repository
 This repository is setup to make it as easy as possible to start working on CS343 assignments without much configuration. First clone this repository and cd into it
 ```
 git clone https://github.com/shaunbennett/cs343.git && cd cs343
@@ -19,7 +19,7 @@ docker-compose build
 ```
 Finally, run the container. It should open the bash shell inside the root home folder, everything should be setup for you!
 ```
-docker-compose run .
+docker-compose run cs343
 ```
 
 #### Option 2: Pull the image
